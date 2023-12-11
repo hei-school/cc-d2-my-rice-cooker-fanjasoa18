@@ -2,28 +2,24 @@
 
 #Rice Cooker
 
-##Description
-A simple Rice Cooker program designed to boil water and cook rice with ease. This program prompts users to add water and choose cooking options for a convenient cooking experience.
+## Installation
 
-##Features:
+Make sure you have Python installed. Clone the repository and install the dependencies.
 
-Boil water with specified quantity and time.
-Cook white or brown rice with automatic detection of cooking time.
-Error handling with informative messages.
+pip install flake8
 
-##Installation
-Clone the repository.
-git clone https://github.com/hei-school/cc-d2-my-rice-cooker-fanjasoa18.git
-Choose the appropriate branch for your preferred language. Navigate to each branch for specific language installations.
-Python
-Ruby
-Swift
-Go
+### Usage
+Run the program using the following command:
 
-###Suggestion: We recommend trying the Python implementation first for the best experience. Navigate to the python-implementation branch(feature/python) for Python-specific instructions. Feel free to explore other branches for different language implementations.
+python main.py
+Follow the on-screen instructions to interact with the virtual rice cooker.
 
-Bug
-No major bugs reported.
+# requirements.txt
+Coding Standards
+This project follows the PEP 8 coding standards. To lint the code, use flake8.
 
-Encouragement
+flake8 .
+
+For more information on PEP 8, refer to the Python Style Guide.
+
 Enjoy cooking with your virtual Rice Cooker! Happy coding ☻ !
